@@ -36,7 +36,7 @@
 ### 7)Thats pretty much it. Visit the site (http://yourgithubusername.github.io/personal-portfolio) and you will see the site is deployed.
 
 ### You can confirm the deployment through the settings as well.
-#### setting > pages
+#### settings > pages
 
 ![11](https://github.com/TheCodingTrio/personal-portfolio/assets/96247301/3406603a-9b90-48e4-8c80-09f2e1979d00)
 
