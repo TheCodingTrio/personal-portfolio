@@ -55,7 +55,9 @@
 `<meta http-equiv='cache-control' content='no-cache'> 
 <meta http-equiv='expires' content='0'> 
 <meta http-equiv='pragma' content='no-cache'>`
-
 #### Updates will be shown in a lesser time.
+### visit [this link](https://stackoverflow.com/questions/24851824/how-long-does-it-take-for-github-page-to-show-changes-after-changing-index-html) for more information.
 
-##### Note: If there is any issue, please don't spam me. Go ask your mom or follow [this](https://www.youtube.com/watch?v=Q9n2mLqXFpU).Thank you.😉
+
+
+##### 🛑Note: If there is any issue, please don't spam me. Go ask your mom or follow [this](https://www.youtube.com/watch?v=Q9n2mLqXFpU).Thank you.😉
