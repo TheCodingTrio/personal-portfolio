@@ -46,7 +46,7 @@
 ![12](https://github.com/TheCodingTrio/personal-portfolio/assets/96247301/5718dac6-470e-428c-94dc-34594ad787fb)
 
 ### ==========================================================
-## FAQ's 🙋‍♂️
+## FAQ's 🙋
 ### i)When I update my code in the future,will it be shown on the deployed site as well ?
 #### yes, it will be updated on the deployed site.Everytime you make changes to your code, after saving run `npm run deploy` on the terminal and commit your changes to the repository.
 
@@ -58,4 +58,4 @@
 
 #### Updates will be shown in a lesser time.
 
-##### Note: If there is any issue, please don't spam me. Go ask your mom.Thank you.😉
+##### Note: If there is any issue, please don't spam me. Go ask your mom or follow [this](https://www.youtube.com/watch?v=Q9n2mLqXFpU).Thank you.😉
