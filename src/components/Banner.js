@@ -86,5 +86,3 @@ const Banner = () => {
 };
 
 export default Banner;
-
-//commit check1
