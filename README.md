@@ -45,6 +45,17 @@
 
 ![12](https://github.com/TheCodingTrio/personal-portfolio/assets/96247301/5718dac6-470e-428c-94dc-34594ad787fb)
 
-### ===================================================================
+### ==========================================================
+## FAQ's 🙋‍♂️
+### i)When I update my code in the future,will it be shown on the deployed site as well ?
+#### yes, it will be updated on the deployed site.Everytime you make changes to your code, after saving run `npm run deploy` on the terminal and commit your changes to the repository.
 
-#### Note: If there is any issue, please don't spam me. Go ask your mom.Thank you.😉
+### ii)It takes a considerable amount of time for the updates to be shown,how to fix that?
+#### Add these codes to your index.html file in the build folder
+`<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>`
+
+#### Updates will be shown in a lesser time.
+
+##### Note: If there is any issue, please don't spam me. Go ask your mom.Thank you.😉
