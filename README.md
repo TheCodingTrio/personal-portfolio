@@ -25,7 +25,11 @@
 ### 5)Run `npm run deploy` on the terminal to deploy your app.
 
 ![2](https://github.com/TheCodingTrio/personal-portfolio/assets/96247301/7e7ad3cd-00e6-4874-9771-41fff103f6f3)
-#### ✅After completing execution, the terminal will give you a message saying site is published.
+#### ✅After completing execution, the terminal will give you a message saying site is Published.
+
+![Screenshot 2023-07-04 063312](https://github.com/TheCodingTrio/personal-portfolio/assets/96247301/c84c729d-ec9a-4859-8364-441b6d7e1e7e)
+
+
 
 ### 6)Give sometime for it to be deployed and after a little while you will see another branch called gh-pages on your repository.
 #### Don't worry, it will appear, just give some time. Have patience darling.😉
