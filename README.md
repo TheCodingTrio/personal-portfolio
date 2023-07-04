@@ -52,7 +52,7 @@
 ### ==========================================================
 ## FAQ's 🙋
 ### i)When I update my code in the future,will it be shown on the deployed site as well ?
-#### yes, it will be updated on the deployed site.Everytime you make changes to your code, after saving run `npm run deploy` on the terminal and commit your changes to the repository.
+#### yes, it will be updated on the deployed site.Everytime you make changes to your code, after saving,commit your changes to the repository and run `npm run deploy` on the terminal.
 
 ### ii)It takes a considerable amount of time for the updates to be shown,how to fix that?
 #### Add these codes to your index.html file in the build folder
